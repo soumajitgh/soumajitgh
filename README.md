@@ -1,94 +1,67 @@
-<h1 align="center">Hi, I'm Soumajit 👋</h1>
+<h1 align="center">Hi, I'm Soumajit.</h1>
 
 <p align="center">
-  <code>student@KIIT</code> · <code>full-stack developer</code> · <code>India / IST</code>
+  CS student &amp; full-stack developer, specialized in Java + TypeScript — and in making complicated things look suspiciously simple.
 </p>
 
-<p align="center">
-  CS student and full-stack developer — highly specialized in Java + TypeScript, and occasionally in convincing bugs they're features.
-</p>
+<p align="center"><code>student@KIIT</code> · <code>building web products</code> · <code>India / IST</code></p>
 
-```console
-soumajit@github:~$ current_focus
-> backend systems · AI products · developer tooling
-```
-
-## `~/work`
+## `projects/`
 
 <table>
   <tr>
-    <td colspan="2" valign="top">
-      <h3><a href="https://fotopick.in">01 / Fotopick ↗</a></h3>
-      <code>Electron · React · NestJS · Python · ONNX</code>
-      <br /><br />
-      <ul>
-        <li>AI photo delivery used by <strong>2,000+ users</strong> across <strong>500+ galleries</strong>.</li>
-        <li>Local face retrieval searches <strong>3,000+ images in 25–30s</strong> at <strong>99% accuracy</strong>.</li>
-        <li>Desktop processing cut infrastructure cost by <strong>60%</strong> and made uploads <strong>5× faster</strong>.</li>
-      </ul>
+    <td width="33%" valign="top">
+      <h3><a href="https://soumajit.dev/projects/fotopick">Fotopick ↗</a></h3>
+      An AI photo-delivery platform that helps photographers deliver galleries and lets guests instantly find every photo they appear in.
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/claexa">02 / Claexa AI ↗</a></h3>
-      <code>React · NestJS · FastAPI · RAG · Docker</code>
-      <br /><br />
-      <ul>
-        <li>Three-agent system generates exam papers in under <strong>1 minute</strong>.</li>
-        <li>RAG grounded on <strong>1,000+ previous-year papers</strong>.</li>
-        <li>Agent-drawn diagrams reduced LLM token cost by <strong>50%</strong>.</li>
-      </ul>
+    <td width="33%" valign="top">
+      <h3><a href="https://soumajit.dev/projects/claexa-ai">Claexa AI ↗</a></h3>
+      An educator workspace that creates syllabus-aware question papers from past exams, complete with subject diagrams.
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/soumajitgh/fullstack-airbnb-clone">03 / Airbnb Clone ↗</a></h3>
-      <code>React · NestJS · PostgreSQL · Docker · GCP</code>
-      <br /><br />
-      <ul>
-        <li>Complete listing, search, booking, and user workflows.</li>
-        <li>JWT-secured APIs with role-based access control.</li>
-        <li>Geo-search with bounding boxes and Haversine ranking.</li>
-      </ul>
+    <td width="33%" valign="top">
+      <h3><a href="https://soumajit.dev/projects/full-stack-airbnb-clone">Airbnb Clone ↗</a></h3>
+      A stay-booking platform for discovering nearby properties, exploring map-based results, and managing reservations.
     </td>
   </tr>
 </table>
 
-## `~/stats`
+## `metrics/`
 
-<p>
-  <a href="https://wakatime.com/@soumajit">
-    <img src="https://wakatime.com/badge/user/735b5512-69f9-4bbd-b6d5-e5b7a0560443.svg" alt="Total time coded since February 2025" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soumajitgh&amp;theme=github_dark"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soumajitgh&amp;theme=github"
+        />
+        <img
+          width="340"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soumajitgh&amp;theme=github"
+          alt="GitHub metrics: stars, commits, pull requests, issues, and contributions"
+        />
+      </picture>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <strong>Coding time</strong><br /><br />
+      <a href="https://wakatime.com/@soumajit">
+        <img src="https://wakatime.com/badge/user/735b5512-69f9-4bbd-b6d5-e5b7a0560443.svg" alt="Total coding time tracked by WakaTime" />
+      </a>
+      <br /><br />
+      <code>Java</code> · <code>TypeScript</code> · <code>Python</code><br />
+      <sub>Backend systems · AI products · developer tooling</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumajitgh&amp;theme=github_dark"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumajitgh&amp;theme=github"
-    />
-    <img
-      width="100%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumajitgh&amp;theme=github"
-      alt="Soumajit's GitHub activity statistics"
-    />
-  </picture>
+  <a href="https://soumajit.dev">Website</a> ·
+  <a href="mailto:soumojitghosh02@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/soumajit-ghosh">LinkedIn</a> ·
+  <a href="https://x.com/soumojitghosh02">X</a> ·
+  <a href="https://wakatime.com/@soumajit">WakaTime</a>
 </p>
-
-## `~/connect`
-
-| channel | endpoint |
-| :-- | :-- |
-| `web` | [soumajit.dev](https://soumajit.dev) |
-| `email` | [soumojitghosh02@gmail.com](mailto:soumojitghosh02@gmail.com) |
-| `github` | [@soumajitgh](https://github.com/soumajitgh) |
-| `linkedin` | [soumajit-ghosh](https://www.linkedin.com/in/soumajit-ghosh) |
-| `x` | [@soumojitghosh02](https://x.com/soumojitghosh02) |
-| `wakatime` | [@soumajit](https://wakatime.com/@soumajit) |
-
-```console
-soumajit@github:~$ echo "Let's build something useful."
-```
