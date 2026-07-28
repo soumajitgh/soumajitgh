@@ -29,34 +29,28 @@
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="middle">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soumajitgh&amp;theme=github_dark"
-        />
-        <source
-          media="(prefers-color-scheme: light)"
-          srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soumajitgh&amp;theme=github"
-        />
-        <img
-          width="340"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soumajitgh&amp;theme=github"
-          alt="GitHub metrics: stars, commits, pull requests, issues, and contributions"
-        />
-      </picture>
+    <td width="25%" align="center">
+      <a href="https://github.com/soumajitgh"><strong>1.1k+</strong></a><br />
+      <sub>commits</sub>
     </td>
-    <td width="50%" align="center" valign="middle">
-      <strong>Coding time</strong><br /><br />
+    <td width="25%" align="center">
+      <a href="https://github.com/pulls?q=is%3Apr+author%3Asoumajitgh"><strong>262</strong></a><br />
+      <sub>pull requests</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/soumajitgh"><strong>28</strong></a><br />
+      <sub>repositories contributed to</sub>
+    </td>
+    <td width="25%" align="center">
       <a href="https://wakatime.com/@soumajit">
         <img src="https://wakatime.com/badge/user/735b5512-69f9-4bbd-b6d5-e5b7a0560443.svg" alt="Total coding time tracked by WakaTime" />
-      </a>
-      <br /><br />
-      <code>Java</code> · <code>TypeScript</code> · <code>Python</code><br />
-      <sub>Backend systems · AI products · developer tooling</sub>
+      </a><br />
+      <sub>coding time</sub>
     </td>
   </tr>
 </table>
+
+<p align="center"><code>Java</code> · <code>TypeScript</code> · <code>Python</code> — Backend systems · AI products · developer tooling</p>
 
 <p align="center">
   <a href="https://soumajit.dev">Website</a> ·
