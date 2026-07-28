@@ -31,15 +31,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/soumajitgh/soumajitgh/main/assets/wakatime-metrics-dark.svg"
+      srcset="https://raw.githubusercontent.com/soumajitgh/soumajitgh/refs/heads/main/assets/wakatime-metrics-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/soumajitgh/soumajitgh/main/assets/wakatime-metrics-light.svg"
+      srcset="https://raw.githubusercontent.com/soumajitgh/soumajitgh/refs/heads/main/assets/wakatime-metrics-light.svg"
     />
     <img
       width="100%"
-      src="https://raw.githubusercontent.com/soumajitgh/soumajitgh/main/assets/wakatime-metrics-light.svg"
+      src="https://raw.githubusercontent.com/soumajitgh/soumajitgh/refs/heads/main/assets/wakatime-metrics-light.svg"
       alt="WakaTime metrics: 1,355 hours all-time, 30 hours 16 minutes this week, 4 hours 19 minutes daily average, TypeScript at 63%, and Claude Code at 46%"
     />
   </picture>
