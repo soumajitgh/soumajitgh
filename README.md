@@ -10,15 +10,15 @@
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="middle">
+    <td width="33%" valign="top">
       <h3><a href="https://soumajit.dev/projects/fotopick">Fotopick ↗</a></h3>
       An AI photo-delivery platform that helps photographers deliver galleries and lets guests instantly find every photo they appear in.
     </td>
-    <td width="33%" align="center" valign="middle">
+    <td width="33%" valign="top">
       <h3><a href="https://soumajit.dev/projects/claexa-ai">Claexa AI ↗</a></h3>
       An educator workspace that creates syllabus-aware question papers from past exams, complete with subject diagrams.
     </td>
-    <td width="33%" align="center" valign="middle">
+    <td width="33%" valign="top">
       <h3><a href="https://soumajit.dev/projects/full-stack-airbnb-clone">Airbnb Clone ↗</a></h3>
       A stay-booking platform for discovering nearby properties, exploring map-based results, and managing reservations.
     </td>
