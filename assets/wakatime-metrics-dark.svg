@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="112" viewBox="0 0 1000 112" role="img" aria-labelledby="title desc">
+  <title id="title">Soumajit's WakaTime metrics</title>
+  <desc id="desc">1,355 hours all-time, 30 hours 16 minutes over the last seven days, 4 hours 19 minutes daily average, TypeScript as the top language, and Claude Code as the top editor.</desc>
+  <rect x="0.5" y="0.5" width="999" height="111" rx="6" fill="#0d1117" stroke="#30363d"/>
+  <g stroke="#30363d">
+    <path d="M200 1v110M400 1v110M600 1v110M800 1v110"/>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">
+    <g fill="#f0f6fc" font-size="22" font-weight="600">
+      <text x="100" y="49">1,355h</text>
+      <text x="300" y="49">30h 16m</text>
+      <text x="500" y="49">4h 19m</text>
+      <text x="700" y="49">TypeScript</text>
+      <text x="900" y="49">Claude Code</text>
+    </g>
+    <g fill="#8b949e" font-size="14">
+      <text x="100" y="78">all-time coding</text>
+      <text x="300" y="78">last 7 days</text>
+      <text x="500" y="78">daily average</text>
+      <text x="700" y="78">top language · 63%</text>
+      <text x="900" y="78">top editor · 46%</text>
+    </g>
+  </g>
+</svg>

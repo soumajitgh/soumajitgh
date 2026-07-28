@@ -27,30 +27,23 @@
 
 ## `metrics/`
 
-<table width="100%">
-  <tr>
-    <td width="20%" align="center">
-      <a href="https://wakatime.com/@soumajit"><strong>1,355h</strong></a><br />
-      <sub>all-time coding</sub>
-    </td>
-    <td width="20%" align="center">
-      <strong>30h 16m</strong><br />
-      <sub>last 7 days</sub>
-    </td>
-    <td width="20%" align="center">
-      <strong>4h 19m</strong><br />
-      <sub>daily average</sub>
-    </td>
-    <td width="20%" align="center">
-      <strong>TypeScript</strong><br />
-      <sub>top language · 63%</sub>
-    </td>
-    <td width="20%" align="center">
-      <strong>Claude Code</strong><br />
-      <sub>top editor · 46%</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://wakatime.com/@soumajit">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/soumajitgh/soumajitgh/main/assets/wakatime-metrics-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/soumajitgh/soumajitgh/main/assets/wakatime-metrics-light.svg"
+    />
+    <img
+      width="100%"
+      src="https://raw.githubusercontent.com/soumajitgh/soumajitgh/main/assets/wakatime-metrics-light.svg"
+      alt="WakaTime metrics: 1,355 hours all-time, 30 hours 16 minutes this week, 4 hours 19 minutes daily average, TypeScript at 63%, and Claude Code at 46%"
+    />
+  </picture>
+</a>
 
 <p align="center"><sub>WakaTime · last updated July 28, 2026</sub></p>
 
