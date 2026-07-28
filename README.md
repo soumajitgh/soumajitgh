@@ -27,30 +27,32 @@
 
 ## `metrics/`
 
-<table>
+<table width="100%">
   <tr>
-    <td width="25%" align="center">
-      <a href="https://github.com/soumajitgh"><strong>1.1k+</strong></a><br />
-      <sub>commits</sub>
+    <td width="20%" align="center">
+      <a href="https://wakatime.com/@soumajit"><strong>1,355h</strong></a><br />
+      <sub>all-time coding</sub>
     </td>
-    <td width="25%" align="center">
-      <a href="https://github.com/pulls?q=is%3Apr+author%3Asoumajitgh"><strong>262</strong></a><br />
-      <sub>pull requests</sub>
+    <td width="20%" align="center">
+      <strong>30h 16m</strong><br />
+      <sub>last 7 days</sub>
     </td>
-    <td width="25%" align="center">
-      <a href="https://github.com/soumajitgh"><strong>28</strong></a><br />
-      <sub>repositories contributed to</sub>
+    <td width="20%" align="center">
+      <strong>4h 19m</strong><br />
+      <sub>daily average</sub>
     </td>
-    <td width="25%" align="center">
-      <a href="https://wakatime.com/@soumajit">
-        <img src="https://wakatime.com/badge/user/735b5512-69f9-4bbd-b6d5-e5b7a0560443.svg" alt="Total coding time tracked by WakaTime" />
-      </a><br />
-      <sub>coding time</sub>
+    <td width="20%" align="center">
+      <strong>TypeScript</strong><br />
+      <sub>top language · 63%</sub>
+    </td>
+    <td width="20%" align="center">
+      <strong>Claude Code</strong><br />
+      <sub>top editor · 46%</sub>
     </td>
   </tr>
 </table>
 
-<p align="center"><code>Java</code> · <code>TypeScript</code> · <code>Python</code> — Backend systems · AI products · developer tooling</p>
+<p align="center"><sub>WakaTime · last updated July 28, 2026</sub></p>
 
 <p align="center">
   <a href="https://soumajit.dev">Website</a> ·
