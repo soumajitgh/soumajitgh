@@ -35,7 +35,16 @@ DASHBOARD_PORT=9119
 OPENAI_API_KEY=sk-...
 ANTHROPIC_API_KEY=sk-ant-...
 TELEGRAM_BOT_TOKEN=...
+
+HERMES_DASHBOARD_BASIC_AUTH_USERNAME=admin
+HERMES_DASHBOARD_BASIC_AUTH_PASSWORD=a-strong-password
+HERMES_DASHBOARD_BASIC_AUTH_SECRET=$(openssl rand -hex 32)
 ```
+
+The dashboard binds `0.0.0.0` and Hermes fail-closes on any non-loopback
+bind: it won't start without `HERMES_DASHBOARD_BASIC_AUTH_*` (or an OIDC
+provider — see [docs](https://hermes-agent.nousresearch.com/docs/user-guide/features/web-dashboard))
+set. Generate `HERMES_DASHBOARD_BASIC_AUTH_SECRET` with `openssl rand -hex 32`.
 
 ### 4. Setup Domains & Reverse Proxy Routing (Dokploy Domain Tab)
 In Dokploy's **Domains** tab for this deployment:
