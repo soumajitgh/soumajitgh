@@ -6,7 +6,7 @@ This folder contains the Docker Compose configuration and environment templates 
 
 ## 📁 Files Included
 
-- [`compose.yml`](file:///Users/soumajit/Developer/github-profile-soumajitgh/deploy/hermes/compose.yml): Docker Compose configuration with environment-driven port variables.
+- [`docker-compose.yml`](file:///Users/soumajit/Developer/github-profile-soumajitgh/deploy/hermes/docker-compose.yml): Docker Compose configuration with environment-driven port variables.
 - [`.env.example`](file:///Users/soumajit/Developer/github-profile-soumajitgh/deploy/hermes/.env.example): Environment variable template for custom service ports, API keys, and bot tokens.
 
 ---
@@ -21,9 +21,9 @@ This folder contains the Docker Compose configuration and environment templates 
 ### 2. Configure Source & Compose Path
 - **If using Git repository**:
   - Select your Git provider and repository.
-  - Set the Compose path to: `deploy/hermes/compose.yml`.
+  - Set the Compose path to: `deploy/hermes/docker-compose.yml`.
 - **If deploying directly via raw YAML**:
-  - Paste the contents of [`compose.yml`](file:///Users/soumajit/Developer/github-profile-soumajitgh/deploy/hermes/compose.yml) into the Dokploy Compose Editor.
+  - Paste the contents of [`docker-compose.yml`](file:///Users/soumajit/Developer/github-profile-soumajitgh/deploy/hermes/docker-compose.yml) into the Dokploy Compose Editor.
 
 ### 3. Set Environment Variables
 In the **Environment** tab of your Compose application in Dokploy, copy key-value pairs from [`.env.example`](file:///Users/soumajit/Developer/github-profile-soumajitgh/deploy/hermes/.env.example) and set your custom ports and credentials:
