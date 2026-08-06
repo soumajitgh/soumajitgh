@@ -1,8 +1,6 @@
-version: "3.8"
-
 services:
   hermes:
-    image: ghcr.io/nousresearch/hermes-agent:latest
+    image: nousresearch/hermes-agent:latest
     container_name: hermes-agent
     restart: unless-stopped
     command: gateway run
@@ -22,7 +20,7 @@ services:
       - hermes-net
 
   dashboard:
-    image: ghcr.io/nousresearch/hermes-agent:latest
+    image: nousresearch/hermes-agent:latest
     container_name: hermes-dashboard
     restart: unless-stopped
     command: dashboard --host 0.0.0.0 --insecure
