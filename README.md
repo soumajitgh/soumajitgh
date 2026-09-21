@@ -24,21 +24,13 @@
 ## `metrics/`
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumajitgh&amp;theme=github_dark"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumajitgh&amp;theme=github"
-    />
+  <a href="https://wakatime.com/@soumajit">
     <img
       width="100%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumajitgh&amp;theme=github"
-      alt="Soumajit's GitHub activity statistics"
+      src="https://soumajit.dev/api/wakatime.svg"
+      alt="Soumajit's WakaTime coding statistics"
     />
-  </picture>
+  </a>
 </p>
 
 <p align="center">
