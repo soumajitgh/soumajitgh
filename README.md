@@ -1,10 +1,23 @@
 <h1 align="center">Hi, I'm Soumajit.</h1>
 
 <p align="center">
-  CS student &amp; full-stack developer, specialized in Java + TypeScript — and in making complicated things look suspiciously simple.
+  CS student &amp; full-stack developer, hypercharged with AI.
 </p>
 
-<p align="center"><code>student@KIIT</code> · <code>building web products</code> · <code>India / IST</code></p>
+<p align="center">
+    <code>student@KIIT</code> · <code>building web products</code> · <code>India / IST</code>
+</p>
+
+## `languages/`
+
+<table width="100%">
+  <tr>
+    <td align="center" width="25%" height="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="25%" height="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" /><br /><sub><b>Python</b></sub></td>
+    <td align="center" width="25%" height="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="36" height="36" alt="Go" /><br /><sub><b>Go</b></sub></td>
+    <td align="center" width="25%" height="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" height="36" alt="Java" /><br /><sub><b>Java</b></sub></td>
+  </tr>
+</table>
 
 ## `projects/`
 
