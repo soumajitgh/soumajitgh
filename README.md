@@ -12,10 +12,12 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="25%" height="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="25%" height="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" /><br /><sub><b>Python</b></sub></td>
-    <td align="center" width="25%" height="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="36" height="36" alt="Go" /><br /><sub><b>Go</b></sub></td>
-    <td align="center" width="25%" height="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" height="36" alt="Java" /><br /><sub><b>Java</b></sub></td>
+    <td align="center" width="16.67%" height="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="16.67%" height="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="16.67%" height="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" /><br /><sub><b>Python</b></sub></td>
+    <td align="center" width="16.67%" height="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="36" height="36" alt="Go" /><br /><sub><b>Go</b></sub></td>
+    <td align="center" width="16.67%" height="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" height="36" alt="Java" /><br /><sub><b>Java</b></sub></td>
+    <td align="center" width="16.67%" height="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="36" height="36" alt="Dart" /><br /><sub><b>Dart</b></sub></td>
   </tr>
 </table>
 
@@ -34,17 +36,20 @@
   </tr>
 </table>
 
-## `metrics/`
+## `oss/`
 
-<p align="center">
-  <a href="https://wakatime.com/@soumajit">
-    <img
-      width="100%"
-      src="https://soumajit.dev/api/wakatime.svg"
-      alt="Soumajit's WakaTime coding statistics"
-    />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://soumajit.dev/contributions?repo=onebusaway%2Fmaglev">Maglev ↗</a></h3>
+      My contributions to onebusaway/maglev.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://soumajit.dev/contributions?repo=onebusaway%2Fwayfinder">Wayfinder ↗</a></h3>
+      My contributions to onebusaway/wayfinder.
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://soumajit.dev">Website</a> ·
