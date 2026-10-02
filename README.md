@@ -23,30 +23,30 @@
 
 ## `projects/`
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://soumajit.dev/projects/fotopick">Fotopick ↗</a></h3>
-      An AI photo-delivery platform that helps photographers deliver galleries and lets guests instantly find every photo they appear in.
+    <td width="9999" valign="top">
+      <p><strong><a href="https://soumajit.dev/projects/fotopick">Fotopick ↗</a></strong></p>
+      <p>An AI photo-delivery platform that helps photographers deliver galleries and lets guests instantly find every photo they appear in.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://soumajit.dev/projects/claexa-ai">Claexa AI ↗</a></h3>
-      An educator workspace that creates syllabus-aware question papers from past exams, complete with subject diagrams.
+      <p><strong><a href="https://soumajit.dev/projects/claexa-ai">Claexa AI ↗</a></strong></p>
+      <p>An educator workspace that creates syllabus-aware question papers from past exams, complete with subject diagrams.</p>
     </td>
   </tr>
 </table>
 
 ## `oss/`
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://soumajit.dev/contributions?repo=onebusaway%2Fmaglev">Maglev ↗</a></h3>
-      My contributions to onebusaway/maglev.
+    <td width="9999" valign="top">
+      <p><strong><a href="https://soumajit.dev/contributions?repo=onebusaway%2Fmaglev">Maglev ↗</a></strong></p>
+      <p>My contributions to onebusaway/maglev.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://soumajit.dev/contributions?repo=onebusaway%2Fwayfinder">Wayfinder ↗</a></h3>
-      My contributions to onebusaway/wayfinder.
+      <p><strong><a href="https://soumajit.dev/contributions?repo=onebusaway%2Fwayfinder">Wayfinder ↗</a></strong></p>
+      <p>My contributions to onebusaway/wayfinder.</p>
     </td>
   </tr>
 </table>
