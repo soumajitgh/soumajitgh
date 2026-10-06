@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Soumajit.</h1>
 
 <p align="center">
-  CS student &amp; full-stack developer, hypercharged with AI.
+  Computer science student &amp; full-stack developer, hypercharged with AI.
 </p>
 
 <p align="center">
